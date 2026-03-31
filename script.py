@@ -1,1 +1,1 @@
-print("Salut, GitHub Actions extins!")
+print("Test PR workflow")
